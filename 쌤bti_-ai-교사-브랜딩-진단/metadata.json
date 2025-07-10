@@ -1,0 +1,6 @@
+{
+  "name": "쌤BTI: AI 교사 브랜딩 진단",
+  "description": "Gemini AI를 기반으로 교사의 설문 답변을 실시간으로 분석하여, 세상에 단 하나뿐인 초개인화된 캐릭터, 슬로건, 강점 및 성장점을 담은 브랜딩 리포트를 생성해주는 웹 서비스입니다.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

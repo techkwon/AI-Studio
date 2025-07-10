@@ -1,0 +1,6 @@
+{
+  "name": "Korean Question Evaluation AI",
+  "description": "An AI-powered tool to evaluate the cognitive level of questions based on Bloom's Taxonomy, specifically for Korean language questions. It uses the Gemini API for analysis.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

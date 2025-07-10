@@ -1,0 +1,21 @@
+
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: 'Google Sans', sans-serif; /* Ensure consistent font */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+body {
+  overflow: hidden;
+  /* Conductor's baton cursor - SVG tip at (2,2), handle at (24,24) */
+  /* White baton with tan handle, suitable for dark backgrounds */
+  cursor: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMkszTDIyJTIwMjIiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PGNpcmNsZSBjeD0iMjQiIGN5PSIyNCIgcj0iNCIgZmlsbD0iI0QyQjQ4QyIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjUiLz48L3N2Zz4='), auto;
+}
+body.dragging {
+  /* cursor: grabbing; standard grabbing cursor might be fine */
+}
+body.dragging * {
+  user-select: none;
+  pointer-events: none;
+}

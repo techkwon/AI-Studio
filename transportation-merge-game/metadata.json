@@ -1,0 +1,6 @@
+{
+  "name": "Transportation Merge Game",
+  "description": "A Suika-like physics puzzle game where players merge various transportation items to discover new ones and achieve a high score. Items are dropped into a container and merge when two of the same type collide.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

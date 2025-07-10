@@ -1,0 +1,6 @@
+{
+  "name": "마음 예보 (Mind Forecast)",
+  "description": "'마음 예보'는 사용자의 생년월일 정보를 바탕으로, Gemini AI가 실시간으로 바이오리듬, 수비학, 점성술 등의 원리를 통합 분석하여 오늘의 종합 컨디션을 예보하는 개인화 AI 코칭 서비스입니다.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

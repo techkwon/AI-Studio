@@ -1,0 +1,6 @@
+{
+  "name": "AI 프롬프트 어드벤처",
+  "description": "초등학생을 위한 생성형 AI 프롬프트 작성 학습 웹앱입니다. 재미있는 동물 캐릭터와 함께 프롬프트 작성법을 배우고, Gemini API를 통해 점수와 피드백을 받습니다.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
